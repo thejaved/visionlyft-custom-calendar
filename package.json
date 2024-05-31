@@ -1,0 +1,29 @@
+{
+  "name": "@visionlyft/custom-calendar",
+  "version": "1.2.3",
+  "description": "A custom calendar component for React Native.",
+  "keywords": [
+    "react-native",
+    "calendar",
+    "custom",
+    "component",
+    "react-native-custom-calendar"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javed Khan",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.74.0",
+    "typescript": "^4.0.0"
+  }
+}
